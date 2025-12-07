@@ -1,12 +1,7 @@
-## Hi there 👋
+**嘿，你好👋**
 
-<!--
+这是一叶知秋（英文名：OLSTCOA）的Github仓库
 
-**Here are some ideas to get you started:**
+**我们是谁？**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我们是一家来自中国的QQ&微信机器人开发组织，致力于推动QQ&微信机器人产业的开源化
